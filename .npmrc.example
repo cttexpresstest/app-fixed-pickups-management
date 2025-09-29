@@ -1,0 +1,10 @@
+registry=https://registry.npmjs.org/
+@ctt-library:registry=https://pkgs.dev.azure.com/CTT-SOT/_packaging/front-libraries/npm/registry/
+always-auth=true
+
+# En local: login interactivo con tu usuario de Azure
+# npm login --registry=https://pkgs.dev.azure.com/CTT-SOT/_packaging/front-libraries/npm/registry/
+
+# En CI/CD: usa la variable de entorno AZURE_NPM_TOKEN (no commitear tokens)
+//pkgs.dev.azure.com/CTT-SOT/_packaging/front-libraries/npm/registry/:_authToken=${AZURE_NPM_TOKEN}
+//pkgs.dev.azure.com/CTT-SOT/_packaging/front-libraries/npm/:_authToken=${AZURE_NPM_TOKEN}

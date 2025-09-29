@@ -1,0 +1,16 @@
+{
+  "app.title": "Gestor de Recogidas Fijas",
+  "clients.title": "Clientes",
+  "clients.search.placeholder": "Buscar por nombre o código...",
+  "clients.code": "Código",
+  "clients.name": "Nombre",
+  "pickups.title": "Recogidas de {name}",
+  "pickups.add": "Nueva recogida",
+  "pickups.edit": "Editar",
+  "pickups.delete": "Eliminar",
+  "pickups.form.day": "Día",
+  "pickups.form.time": "Hora",
+  "pickups.form.address": "Dirección",
+  "pickups.form.save": "Guardar",
+  "pickups.form.cancel": "Cancelar"
+}

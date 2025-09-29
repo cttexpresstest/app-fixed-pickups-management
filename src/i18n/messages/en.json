@@ -1,0 +1,16 @@
+{
+  "app.title": "Fixed Pickups Manager",
+  "clients.title": "Clients",
+  "clients.search.placeholder": "Search by name or code...",
+  "clients.code": "Code",
+  "clients.name": "Name",
+  "pickups.title": "Pickups for {name}",
+  "pickups.add": "New pickup",
+  "pickups.edit": "Edit",
+  "pickups.delete": "Delete",
+  "pickups.form.day": "Day",
+  "pickups.form.time": "Time",
+  "pickups.form.address": "Address",
+  "pickups.form.save": "Save",
+  "pickups.form.cancel": "Cancel"
+}

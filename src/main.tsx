@@ -4,7 +4,6 @@ import { RouterProvider } from 'react-router-dom';
 import { IntlProvider } from 'react-intl';
 import { router } from './app/routes';
 import { useLocaleMessages } from './i18n';
-import '@ctt-library/styles';
 import './styles/index.css';
 
 const Root = () => {

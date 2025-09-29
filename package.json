@@ -17,12 +17,7 @@
     "zustand": "^4.5.5",
     "formik": "^2.4.6",
     "yup": "^1.4.0",
-    "react-intl": "^6.6.8",
-    "@ctt-library/alert": "*",
-    "@ctt-library/auth": "*",
-    "@ctt-library/header": "*",
-    "@ctt-library/modal": "*",
-    "@ctt-library/styles": "*"
+    "react-intl": "^6.6.8"
   },
   "devDependencies": {
     "@types/react": "^18.3.7",
